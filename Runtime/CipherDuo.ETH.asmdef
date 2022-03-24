@@ -1,0 +1,16 @@
+{
+    "name": "CipherDuo.ETH",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8df2996db552b0548985bd72e2dee464"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
